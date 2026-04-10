@@ -1,12 +1,9 @@
 ### Hi, I'm Satya 👋
 
 I build machine learning projects and improve through consistent practice and real-world problem solving.
-
 - Currently working on Machine Learning projects  
 - Interested in Data Science and Model Building  
 - Learning advanced ML concepts and improving fundamentals  
-
----
 
 #### 🛠️ Skills
 
@@ -18,7 +15,6 @@ I build machine learning projects and improve through consistent practice and re
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn🤖-yellow?style=for-the-badge&logo=scikitlearn&logoColor=black)
 ![PowerBI](https://img.shields.io/badge/PowerBI📊-gold?style=for-the-badge&logo=powerbi&logoColor=black)
 
----
 
 #### ⚡ Focus
 Building real-world machine learning projects and improving model performance through practice.
