@@ -2,10 +2,10 @@
 
 I build machine learning projects and focus on improving my skills through consistent practice and real-world problem solving.
 
-- 🔭 Currently working on Machine Learning projects  
-- 📊 Interested in Data Science and Model Building  
-- 🧠 Learning advanced ML techniques and improving fundamentals  
-- 🎯 Goal: Become strong in building real-world ML systems  
+-  Currently working on Machine Learning projects  
+-  Interested in Data Science and Model Building  
+-  Learning advanced ML techniques and improving fundamentals  
+-  Goal: Become strong in building real-world ML systems  
 
 #### Skills : 
 
