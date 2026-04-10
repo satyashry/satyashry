@@ -14,13 +14,21 @@ I build machine learning projects and focus on improving my skills through consi
 
 ## 🛠️ Skills
 
-![Python](https://img.shields.io/badge/Python🐍-blue?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning🤖-blue?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas🐼-blue?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy📊-blue?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn📈-blue?style=for-the-badge)
-![XGBoost](https://img.shields.io/badge/XGBoost⚡-blue?style=for-the-badge)
+## 🛠️ Skills
 
+![Python](https://img.shields.io/badge/Python🐍-blue?style=for-the-badge&logo=python&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy📊-lightblue?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas🐼-darkblue?style=for-the-badge&logo=pandas&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL🗄️-orange?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib📈-green?style=for-the-badge)
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn🤖-yellow?style=for-the-badge&logo=scikitlearn&logoColor=black)
+
+![PowerBI](https://img.shields.io/badge/PowerBI📊-gold?style=for-the-badge&logo=powerbi&logoColor=black)
 ---
 
 ## 📌 Projects
