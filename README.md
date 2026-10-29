@@ -5,7 +5,7 @@ Machine Learning Engineer | Deep Learning Enthusiast
 ## About Me
 
 - **BUILDING** end-to-end ML & DL applications
-- **LEARNING** Deep Learning & Computer Vision
+- **LEARNING** Deep Learning & Computer Vision.
 - **EXPLORING** AI & Model Deployment.
 
 ## Tech Stack
